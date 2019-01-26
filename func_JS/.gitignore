@@ -1,0 +1,5 @@
+vFunc
+.*ipynb_checkpoints
+node_modules/
+package.json
+package-lock.json
